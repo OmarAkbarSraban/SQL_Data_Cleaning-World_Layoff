@@ -9,7 +9,7 @@ This project focuses on cleaning a dataset related to world layoffs. The project
   
 ## Repository Contents
 - `layoffs.csv`: The original, uncleaned dataset.
-- `data_cleaning-layoffs.sql`: SQL script containing all the steps to clean the data.
+- `sql_data_cleaning-layoffs.sql`: SQL script containing all the steps to clean the data.
 - `cleaning_report.pdf`: Detailed report documenting the data cleaning process, findings, and justifications.
 - `README.md`: Project overview and instructions (this file).
 
@@ -51,7 +51,7 @@ To ensure a comprehensive data cleaning process, consider the following addition
 ## Usage
 To run the data cleaning script:
 1. Load the raw data into your database.
-2. Execute the SQL script (`data_cleaning.sql`) to clean the data.
+2. Execute the SQL script (`sql_data_cleaning-layoffs.sql`) to clean the data.
 3. Review the final cleaned dataset and the detailed cleaning report for insights.
 
 ## Conclusion
